@@ -34,6 +34,3 @@ python main.py
 - README.md
 - screenshots/output.png
 
-## Author
-Name: Your Name
-Roll No: Your Roll Number
